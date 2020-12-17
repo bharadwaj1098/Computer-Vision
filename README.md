@@ -30,7 +30,7 @@ All the Content we submitted for phase-3. Includes
 * Pytorch was Used.
 * It's basically a regression task
 * Used RMSE loss.
-* Took 12hrs to run 10 epochs(Holyshit!!!!!)
+* Took 12hrs to run 10 epochs (Holyshit!!!!!)
 * Trained model can be downloaded from https://drive.google.com/file/d/1qRAWGuIvPVEEvT-zwJi7FkwWeSIW9UAv/view?usp=sharing
 
 ![Network](Network.png)
