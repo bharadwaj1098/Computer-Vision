@@ -5,17 +5,17 @@
 
 #### [](https://github.com/bharadwaj1098/Computer-Vision/#ITCS-5152---Computer-Vision)ITCS 5152 - Computer Vision
 
-#### [](https://github.com/bharadwaj1098/Computer-Vision#project-title)Project Title   
+#### [](https://github.com/bharadwaj1098/Computer-Vision#project-title)###Project Title   
 Duplicate Instance Detection in Multiview and Multiscale Scenario
 
 #### [](https://github.com/bharadwaj1098/Computer-Vision)
 
-#### [](https://github.com/bharadwaj1098/Computer-Vision#project-members)Project Members
+#### [](https://github.com/bharadwaj1098/Computer-Vision#project-members)###Project Members
 
 ##### [](https://github.com/bharadwaj1098/Computer-Vision/)
 Sai Bharadwaj Reddy Arrabelly, Bharadwaj Aryasomayajula, Maheswara Rao Lekkala, Josh Vaz, Thrilok Kumar Reddy Aouk.
 
-#### [](https://github.com/bharadwaj1098/Computer-Vision/#industry-partner)Industry Partner
+#### [](https://github.com/bharadwaj1098/Computer-Vision/#industry-partner)###Industry Partner
 
 ##### [](https://github.com/bharadwaj1098/Computer-Vision/#GENPACT)GENPACT
 ### DATA  
