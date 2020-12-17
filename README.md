@@ -31,7 +31,7 @@ All the Content we submitted for phase-3. Includes
 * It's basically a regression task
 * Used RMSE loss
 
-![Network](Network.PNG)
+![Network](Network.png)
 
 
 ### CONTENT :- 
