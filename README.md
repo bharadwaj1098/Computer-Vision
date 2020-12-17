@@ -25,6 +25,12 @@ All the Content we submitted for phase-3. Includes
 2) A notebook(Siamese Network.ipynb), where one object images (obj1), has been paired up with each other forming a total of 5,184 pairs. 
 
 
+### final.ipynb :-
+* It is the final Netwrok which was trained on 80% of the data i.e; 414,720 image pairs.
+* Pytorch was Used.
+* It's basically a regression task
+* Used RMSE loss
+
 
 ### CONTENT :- 
 There are 7,200 images of 100 objects. Each object was turned on a turnable through 360 degrees to vary object pose with respect to a fixed color camera. Images of the objects were taken at pose intervals of 5 degrees. This corresponds to 72 poses per object. There images were then size normalized. Objects have a wide variety of complex geometric and reflectance characteristics.
