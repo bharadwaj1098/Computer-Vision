@@ -30,7 +30,8 @@ All the Content we submitted for phase-3. Includes
 * Pytorch was Used.
 * It's basically a regression task
 * Used RMSE loss
-![Network](network.PNG)
+
+![Network](Network.PNG)
 
 
 ### CONTENT :- 
