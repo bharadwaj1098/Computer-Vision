@@ -29,7 +29,7 @@ Images pairs of all the objects which add upto half a million , paired with the 
 Randomly chosen 80% of data.
 
 ### test.csv 
-Rest 20% of the data.
+TEST 20% of the data.
 
 ### Phase-2 
 All the content we submitted for phase 2. Includes a pdf of Literature Survey by all the team Members, a Jupyter Notebook Visualizing all the data.
